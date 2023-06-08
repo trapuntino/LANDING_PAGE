@@ -17,15 +17,11 @@
 }
 
 .bottone {
-    margin-top: 100px;
-    padding-left: 100px;
-    padding-right: 100px;
-    padding-top: 10px;
-    padding-bottom: 10px;
+   
+    
     border-style: inset;
     border-color: black;
     border-width: 10pt;
-    font-size: 30pt;
     font-weight: bold;
 }
 
@@ -96,7 +92,7 @@
 
 .banner {
     background-image: url(../IMAGES/BACKGROUND.png);
-    height: 100vh;
+  
     background-repeat: no-repeat;
     background-size: cover;
 
@@ -115,7 +111,7 @@
 
 .banner2 {
     background-image: url(../IMAGES/BACKGROUND_3.png);
-    height: 100vh;
+    
     background-repeat: no-repeat;
     background-size: cover;
 
@@ -166,4 +162,20 @@
 
 .textfooter {
     padding-top: 10pt;
+}
+
+.logo{
+
+    padding:10%;
+}
+
+.titoletto{
+    font-family: "juanito" !important;
+    color:white !important;
+}
+
+.bordo{
+    border-width: 10pt;
+    border-style: inset;
+    border-color: white;
 }
