@@ -1,0 +1,181 @@
+@font-face {
+    font-family: juanito;
+    src: url('../FONT/CheeeDemo-Juanito.otf');
+}
+
+.navigatore {
+
+    border-style: inset;
+    border-color: black;
+    border-width: 10pt;
+}
+
+.barra {
+
+    font-family: juanito;
+    font-size: 30pt;
+}
+
+.bottone {
+   
+    
+    border-style: inset;
+    border-color: black;
+    border-width: 10pt;
+    font-weight: bold;
+}
+
+.title {
+    font-family: "juanito";
+    color: white;
+    font-size: 50pt;
+    padding-left: 100px;
+
+}
+
+.credits {
+    font-family: "juanito";
+    color: white;
+    font-size: 50pt;
+    padding-left: 10px;
+    padding-top: 100px;
+
+}
+
+.credits2 {
+    
+    color: white;
+    font-size: 50pt;
+    padding-left: 10px;
+  
+
+}
+
+.tutorial {
+    
+    color: white;
+    font-size: 25pt;
+    padding-left: 10px;
+  
+
+}
+
+.maria {
+    padding-left: 100px;
+    padding-top: 50px;
+    align-items: center;
+}
+
+.acido {
+    padding-left: 50px;
+    padding-top: 50px;
+    align-items: center;
+}
+
+.bidone {
+    padding-left: 100px;
+    padding-top: 50px;
+
+}
+
+.barbone {
+    padding-left: 50px;
+    padding-top: 150px;
+
+}
+
+.paragraph {
+    font-size: 20pt;
+    color: white;
+    padding-left: 100px;
+}
+
+.banner {
+    background-image: url(../IMAGES/BACKGROUND.png);
+  
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+}
+
+.palazzetti {
+    padding-right: 100px;
+
+}
+
+.polizia {
+    padding-left: 300px;
+    bottom: 0;
+}
+
+.banner2 {
+    background-image: url(../IMAGES/BACKGROUND_3.png);
+    
+    background-repeat: no-repeat;
+    background-size: cover;
+
+
+}
+
+.banner3 {
+    background-color: black;
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.banner4 {
+    background-image: url(../IMAGES/BACKGROUND_3.png);
+    height: 100vh;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+
+.marco {
+
+    bottom: 0;
+    left: 10px;
+}
+
+.flavio {
+
+    bottom: 0;
+    right: 10px;
+    size: 200px;
+}
+
+
+.footer {
+    background-color: black;
+    height: 5vh;
+
+}
+
+.textnavigatore {
+    font-size: 20pt;
+    font-weight: bold;
+}
+
+.textfooter {
+    padding-top: 10pt;
+}
+
+.logo{
+
+    padding:10%;
+}
+
+.titoletto{
+    font-family: "juanito" !important;
+    color:white !important;
+}
+
+.bordo{
+    border-width: 10pt;
+    border-style: inset;
+    border-color: white;
+}
